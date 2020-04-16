@@ -1,6 +1,6 @@
 /*Global*/
 body{
-    background-color: rgb(214, 214, 214);
+    background-color: white;
 }
 main{
     border: 3px solid rgba(0, 0, 0, 0.075);
@@ -10,7 +10,7 @@ main{
     margin: 60px 200px 60px 200px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgba(255, 255, 255, 0.123);
+    background-color: rgba(0, 0, 0, 0.048);
     padding: 30px 30px 30px 30px;
 }
 /*Header text*/
